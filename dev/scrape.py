@@ -4,7 +4,6 @@
 # Local Imports
 import configuration
 import collect
-#import monster
 
 # Standard Library Imports
 import sys
